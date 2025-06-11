@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /home/
+title: "Home"
 ---
 
 # Sharon Mwanje Lusega
