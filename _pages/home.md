@@ -5,7 +5,7 @@ title: "Home"
 
 # Sharon Mwanje Lusega
 
-![Sharon Lusega](https://via.placeholder.com/150) *(Replace with your actual photo link)*
+avatar : "/assets/images/bio-photo.jpg"
 
 ### IT Support | Cybersecurity Specialist | Cloud Security Engineer | Network Engineer
 
