@@ -1,6 +1,7 @@
 layout: home
 author_profile: true
 ---
+# 📄 Sharon Mwanje Lusega – Curriculum Vitae
 
 ## 🧠 Technical Skills
 
