@@ -1,4 +1,4 @@
-layout: home
+layout: single
 author_profile: true
 ---
 # 📄 Sharon Mwanje Lusega – Curriculum Vitae
